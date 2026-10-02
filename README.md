@@ -190,7 +190,7 @@ python3 EMCOINFLIP.py
 #### NAME: Subhash V
 #### REGISTER NUMBER :212224240163
 
-```
+```py
 import numpy as np
 from scipy.stats import binom
 
